@@ -66,6 +66,12 @@ Both are free and highly customizable, and they let you focus on building withou
 
 Right now, in May 2025, we’re seeing something unusual—heavy rainfall in cities where it’s typically supposed to be hot and sunny. In short, *May isn’t May-ing*! With such unpredictable weather, a project like this becomes especially useful. It allows us to get a glimpse of the upcoming weather patterns ahead of time, helping us plan our days better.
 
+
+
+#OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/c0a90a2c-1e17-4022-b170-4a78ff249a8d)
+
 Of course, weather forecasting isn’t always perfect. These predictions are made based on past patterns and current data, and sometimes nature just has its own plans. So yes, there can be inaccuracies at times. But even with that margin of error, having access to this kind of tool can really help individuals and organizations make more informed decisions—whether it’s about travel, events, or just deciding whether or not to carry an umbrella.
 
 
